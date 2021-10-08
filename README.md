@@ -6,3 +6,5 @@
 - **Pronouns**: he/him/his
 - **Myers–Briggs**: [ISFJ](https://www.16personalities.com/isfj-personality)
 - **LinkedIn**: [xlgmokha](https://www.linkedin.com/in/xlgmokha/)
+
+I like to eat cookies. Mostly chocolate chip and oatmeal ones.
