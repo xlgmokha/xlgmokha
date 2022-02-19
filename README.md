@@ -2,7 +2,7 @@
 
 I like to eat cookies. Mostly chocolate chip and oatmeal ones.
 
-- **Title**: Senior Software Engineer, GitHub
+- **Title**: 
 - **Handle**: xlgmokha (extra large mocha)
 - **Timezone**: MST
 - **Pronouns**: he/him/his
