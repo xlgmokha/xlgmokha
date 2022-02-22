@@ -2,7 +2,7 @@
 
 I like to eat cookies. Mostly chocolate chip and oatmeal ones.
 
-- **Title**: 
+- **Title**: Software Engineer II, HashiCorp
 - **Handle**: xlgmokha (extra large mocha)
 - **Timezone**: MST
 - **Pronouns**: he/him/his
