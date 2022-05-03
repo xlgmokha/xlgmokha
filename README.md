@@ -1,6 +1,5 @@
 # mo khan (mo con) 🍪
 
-- **Title**: Software Engineer II, HashiCorp
 - **Handle**: xlgmokha (extra large mocha)
 - **Timezone**: MT
 - **Pronouns**: he/him/his
